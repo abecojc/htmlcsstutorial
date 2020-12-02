@@ -1,0 +1,40 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># P2-HtmlCssTutorial\n- This repo contains the first four tutorials from the HTML and CSS textbook\n- This repo was cloned to my local computer \n- Four branches were created to hold the 4 chapters\n- Followed the tutorials step by step exploring different syntax\n- Used links and images connected between *HTML* and *CSS*\n- Changes font sizes, family and formats\n- Created images files\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 413ed9007d611f95d6bd6d5117d4c6fc71214d0a)
++++ b/README.md	(date 1606888857969)
+@@ -1,8 +1,0 @@
+-# P2-HtmlCssTutorial
+-- This repo contains the first four tutorials from the HTML and CSS textbook
+-- This repo was cloned to my local computer 
+-- Four branches were created to hold the 4 chapters
+-- Followed the tutorials step by step exploring different syntax
+-- Used links and images connected between *HTML* and *CSS*
+-- Changes font sizes, family and formats
+-- Created images files
+Index: css-box-model/boxes.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/css-box-model/boxes.html b/css-box-model/boxes.html
+new file mode 100644
+--- /dev/null	(date 1606888565292)
++++ b/css-box-model/boxes.html	(date 1606888565292)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++
++</body>
++</html>
+\ No newline at end of file
