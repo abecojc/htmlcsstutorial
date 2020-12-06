@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e8594f-66da-4ddf-8d3d-998d5954c094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css-box-model/boxes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-box-model/box-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectId" id="1kVgQUtj6JFEkynZ6oLSXNJo7xW" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
